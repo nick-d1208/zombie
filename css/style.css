@@ -1,0 +1,19 @@
+body,html{
+	margin:0;
+	height:100%;
+}
+#canvascontainer{
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+	width: 100%;
+	max-width: 1024px;
+	max-height: 512px;
+}
+canvas{
+	width:100%;
+	margin:0 auto;
+}
